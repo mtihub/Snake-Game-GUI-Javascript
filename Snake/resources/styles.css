@@ -1,0 +1,32 @@
+html {
+	height: 100%;
+}
+
+body {
+	height: 90%;
+	background-color: #6b4640;
+	color: white;
+	font-family: 'Courgette', cursive;
+}
+
+#gameBox {
+	height: 100%;
+	/*border: 2px solid black;*/
+}
+
+canvas {
+	width: 30%;
+	height: 60%;
+	background-color: "black";
+	border: 2px solid white;
+	margin: 0 auto;
+    display: block;
+}
+
+#score, #highscore {
+	width: 40%;
+	height: 5%;
+	text-align: center;
+	font-size: 3vw;
+	margin: 2% auto;
+}
