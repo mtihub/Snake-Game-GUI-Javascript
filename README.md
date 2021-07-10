@@ -1,2 +1,3 @@
-# Snake-Game-GUI-Javascript
-Classic snake game recreated using Javascript.
+# Snake Game
+
+Classic snake game recreated
